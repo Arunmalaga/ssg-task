@@ -1,0 +1,1 @@
+echo "Hello Arun" $(date +"%Y-%m-%d %T")

@@ -1,0 +1,1 @@
+5 * * * * bash /home/arun/print_me.sh >> /home/arun/hello_error.log
